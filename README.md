@@ -12,8 +12,9 @@ List of open-source technologies related to the Kitsu collaboration platform
 
 ## Docker Files
 
-* [Mathbou](https://gitlab.com/mathbou/docker-cgwire)
 * [Dakon](https://github.com/dakon-io/zou-docker)
+* [Official Docker Image](https://github.com/cgwire/cgwire)
+* [Mathbou](https://gitlab.com/mathbou/docker-cgwire)
 
 
 ## Tutorials
