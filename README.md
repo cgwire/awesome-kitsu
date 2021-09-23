@@ -10,6 +10,10 @@ List of open-source technologies related to the Kitsu collaboration platform
 * [Nagato](https://github.com/eaxum/nagato)
 * [Publisher](https://github.com/cgwire/kitsu-publisher) - By CGWire
 
+## Other integrations
+
+* [Discord bot](https://github.com/keshon/kitsu-to-discord-task-notification) 
+
 ## Docker Files
 
 * [Dakon](https://github.com/dakon-io/zou-docker)
