@@ -9,6 +9,7 @@ List of open-source technologies related to the Kitsu collaboration platform
 * [Qtazu](https://github.com/Colorbleed/qtazu) - Widgets for Qt
 * [Nagato](https://github.com/eaxum/nagato)
 * [Publisher](https://github.com/cgwire/kitsu-publisher) - By CGWire
+* [Silex](https://github.com/ArtFXDev/silex-front) - By ArtFX
 
 ## Other integrations
 
