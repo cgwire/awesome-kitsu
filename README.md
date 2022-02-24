@@ -15,6 +15,10 @@ List of open-source technologies related to the Kitsu collaboration platform
 
 * [Discord bot](https://github.com/keshon/kitsu-to-discord-task-notification) 
 
+## Event managament
+
+* [Essential Event Scripts](https://github.com/keshon/kitsu-essential-events)
+
 ## Docker Files
 
 * [Dakon](https://github.com/dakon-io/zou-docker)
