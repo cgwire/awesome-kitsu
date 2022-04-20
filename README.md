@@ -27,6 +27,7 @@ List of open-source technologies related to the Kitsu collaboration platform
 
 ## Scripts
 
+* [Preview Publisher](https://github.com/EmberLightVFX/Kitsu-Publisher)
 * [Sequence Padder](https://github.com/EmberLightVFX/Kitsu-Sequence-Padder/blob/main/Kitsu%20Sequence%20Padder.py)
 
 ## Tutorials
