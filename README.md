@@ -39,6 +39,8 @@ List of open-source technologies related to the Kitsu collaboration platform
 
 ## Official Repositories
 
-* [Gazu](https://github.com/cgwire/gazu)
-* [Kitsu](https://github.com/cgwire/kitsu)
-* [Zou](https://github.com/cgwire/zou)
+* [Kitsu Frontend](https://github.com/cgwire/kitsu)
+* [Kitsu Backend (Zou)](https://github.com/cgwire/zou)
+* [Python Client (Gazu)](https://github.com/cgwire/gazu)
+* [Javascript Client](https://github.com/cgwire/kitsu-client-js)
+* [Kitsu Publisher](https://github.com/cgwire/kitsu-publisher-next)
