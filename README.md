@@ -14,6 +14,7 @@ List of open-source technologies related to the Kitsu collaboration platform
 ## Other integrations
 
 * [Discord bot](https://github.com/keshon/kitsu-to-discord-task-notification) 
+* [Async version of Gazu](https://github.com/ArtFXDev/aiogazu)
 
 ## Event managament
 
