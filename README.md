@@ -16,7 +16,7 @@ List of open-source technologies related to the Kitsu collaboration platform
 * [Discord bot](https://github.com/keshon/kitsu-to-discord-task-notification) 
 * [Async version of Gazu](https://github.com/ArtFXDev/aiogazu)
 
-## Event managament
+## Event management
 
 * [Essential Event Scripts](https://github.com/keshon/kitsu-essential-events)
 
@@ -28,6 +28,7 @@ List of open-source technologies related to the Kitsu collaboration platform
 
 ## Scripts
 
+* [Preview Download](https://github.com/keshon/kitsu-file-parser)
 * [Preview Publisher](https://github.com/EmberLightVFX/Kitsu-Publisher)
 * [S3 Backup](https://github.com/keshon/kitsu-backup-s3)
 * [Sequence Padder](https://github.com/EmberLightVFX/Kitsu-Sequence-Padder/blob/main/Kitsu%20Sequence%20Padder.py)
