@@ -21,6 +21,10 @@ List of open-source technologies related to the Kitsu collaboration platform
 
 * [Essential Event Scripts](https://github.com/keshon/kitsu-essential-events)
 
+## Libraries
+
+* [Gazelle (PHP Client)](https://packagist.org/packages/fuitad/gazelle)
+
 ## Docker Files
 
 * [Dakon](https://github.com/dakon-io/zou-docker)
