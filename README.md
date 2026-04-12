@@ -16,7 +16,7 @@ List of open-source technologies related to the Kitsu collaboration platform
 * [Discord bot](https://github.com/keshon/kitsu-to-discord-task-notification) 
 * [Async version of Gazu](https://github.com/ArtFXDev/aiogazu)
 * [Gazu types](https://github.com/johhnry/gazu-stubs)
-* [Kitsu MCP Server](https://github.com/INGIPSA/kitsu-mcp-server) - MCP server to connect Kitsu with AI assistants (Claude, etc.)
+* [Kitsu MCP Server](https://github.com/INGIPSA/kitsu-mcp-server) - 76-tool MCP server to connect Kitsu with AI assistants (Claude, etc.) — full pipeline coverage: assets, shots, edits, tasks, previews, team, budgets, playlists, and more
 
 ## Event management
 
