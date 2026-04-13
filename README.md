@@ -22,6 +22,7 @@ List of open-source technologies related to the Kitsu collaboration platform
 
 * [Carbon Footprint](https://github.com/cgwire/kitsu-carbon-plugin/)
 * [Tickets](https://github.com/cgwire/kitsu-tickets/)
+* [Whiteboard](https://github.com/INGIPSA/kitsu-whiteboard-plugin) - Visual review boards (Miro/FigJam-style) with infinite canvas, shapes, sticky notes, and Kitsu entity integration
 
 ## Event management
 
