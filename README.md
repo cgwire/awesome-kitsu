@@ -18,6 +18,11 @@ List of open-source technologies related to the Kitsu collaboration platform
 * [Gazu types](https://github.com/johhnry/gazu-stubs)
 * [Kitsu MCP Server](https://github.com/INGIPSA/kitsu-mcp-server) - 76-tool MCP server to connect Kitsu with AI assistants (Claude, etc.) — full pipeline coverage: assets, shots, edits, tasks, previews, team, budgets, playlists, and more
 
+## Plugins
+
+* [Carbon Footprint](https://github.com/cgwire/kitsu-carbon-plugin/)
+* [Tickets](https://github.com/cgwire/kitsu-tickets/)
+
 ## Event management
 
 * [Essential Event Scripts](https://github.com/keshon/kitsu-essential-events)
@@ -43,7 +48,6 @@ List of open-source technologies related to the Kitsu collaboration platform
 
 * [Official video tutorials](https://www.youtube.com/playlist?list=PLp_1gB5ZBHXqnQgZ4TCrAt7smxesaDo29)
 * [Raspberry Pi installation](https://www.youtube.com/watch?v=QtFzQMYZSDc)
-
 
 ## Official Repositories
 
