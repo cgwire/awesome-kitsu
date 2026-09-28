@@ -18,15 +18,15 @@ List of open-source technologies related to the Kitsu collaboration platform
 ## Other integrations
 
 * [Discord bot](https://github.com/keshon/kitsu-to-discord-task-notification) 
-* [Kitsu MCP Server](https://github.com/INGIPSA/kitsu-mcp-server) - 76-tool MCP server to connect Kitsu with AI assistants (Claude, etc.) — full pipeline coverage: assets, shots, edits, tasks, previews, team, budgets, playlists, and more
+* [Kitsu MCP Server](https://github.com/INGIPSA/kitsu-mcp-server) 
+
 * [OpenRV](https://github.com/cgwire/openrv) - Review Kitsu playlists in OpenRV.
 
 ## Plugins
 
 * [Carbon Footprint](https://github.com/cgwire/kitsu-carbon-plugin/)
 * [Tickets](https://github.com/cgwire/kitsu-tickets/)
-* [Whiteboard](https://github.com/INGIPSA/kitsu-whiteboard-plugin) - Visual review boards (Miro/FigJam-style) with infinite canvas, shapes, sticky notes, and Kitsu entity integration
-
+* [Whiteboard](https://github.com/INGIPSA/kitsu-whiteboard-plugin) - Visual review boards (Miro/FigJam-style)
 ## Event management
 
 * [Essential Event Scripts](https://github.com/keshon/kitsu-essential-events)
