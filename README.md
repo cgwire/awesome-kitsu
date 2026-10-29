@@ -18,8 +18,8 @@ List of open-source technologies related to the Kitsu collaboration platform
 ## Other integrations
 
 * [Discord bot](https://github.com/keshon/kitsu-to-discord-task-notification) 
-* [Kitsu MCP Server](https://github.com/INGIPSA/kitsu-mcp-server) 
-
+* [Kitsu MCP Server](https://github.com/INGIPSA/kitsu-mcp-server) - Bot Token
+* [Kitsu MCP Server](https://github.com/EstienneG/kitsu-mcp) - User Login
 * [OpenRV](https://github.com/cgwire/openrv) - Review Kitsu playlists in OpenRV.
 
 ## Plugins
